@@ -6,7 +6,7 @@ Aarogya Setu is a mobile application developed by the Government of India to con
 
 ## Features
 
-Aarogya Setu mobile application provides the following features:
+Aarogya Setu mobile application  features:
 
 - Minimal and simple user interface, which user can get easily acquainted with
 - Scan nearby Aarogya Setu user using BluetoothLE Scanner 
